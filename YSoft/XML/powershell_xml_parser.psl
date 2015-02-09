@@ -1,0 +1,6 @@
+$xml = New-Object XML
+$xml.Load(".\maven-metadata.xml")
+Write-Host –NoNewLine "Build number: "
+Write-Host $xml.metadata.versioning.snapshot.buildNumber.'#text'
+Write-Host -NoNewLine "Extension: "
+Write-Host $xml.metadata.versioning.snapshotVersions.childNodes[1].extension.'#text'
