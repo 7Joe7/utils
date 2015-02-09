@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="CompassSettings">
+    <option name="compassSupportEnabled" value="true" />
+  </component>
+  <component name="FacetManager">
+    <facet type="JRUBY" name="JRuby">
+      <configuration>
+        <JRUBY_FACET_CONFIG_ID NAME="JRUBY_SDK_NAME" VALUE="jruby-1.7.12-p392" />
+        <LOAD_PATH number="0" />
+        <I18N_FOLDERS number="0" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="jruby-1.7.12-p392 facet library" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.6.5, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="childprocess (v0.5.3, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="commonwatir (v4.0.0, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.6, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="gibberish (v1.3.1, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.7.0, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="joe_utils (v0.1.6, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.1, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="log4r (v1.1.10, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v2.3, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.10.1, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="neatcode (v0.1.2, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v1.5.2, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-protection (v1.5.3, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rest-client (v1.6.7, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.1.6, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v2.42.0, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra (v1.4.3, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ues.core (v8.04.103.8, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uu_adk_client (v0.8.6, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uu_applog (v0.7.6, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uu_os_client (v0.9.6, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uu_os_framework (v0.9.4, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uu_os_gvc (v0.8.4, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uu_uds (v0.6.4, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="watir (v5.0.0, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="watir-webdriver (v0.6.11, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="websocket (v1.0.7, jruby-1.7.12-p392) [gem]" level="application" />
+  </component>
+</module>
+

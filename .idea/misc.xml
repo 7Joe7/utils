@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CppTools.Loader" reportImplicitCastToBool="false" reportNameReferencedOnce="false" version="3" compilerSelect="AUTO" />
+  <component name="IdProvider" IDEtalkID="A1291BFE5EE6CD937A687C6D07F15F4E" />
+  <component name="ProjectKey">
+    <option name="state" value="project://8437ac46-ed93-4294-8f33-693f849ccdd8" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="jruby-1.7.12-p392" project-jdk-type="JRUBY_SDK" />
+</project>
+
